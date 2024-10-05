@@ -70,18 +70,6 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 			<fanart>resources/fanart.jpg</fanart>
-			<screenshot>extras/views/Amplia.png</screenshot>
-			<screenshot>extras/views/Fanart.png</screenshot>
-			<screenshot>extras/views/Flix Episodes.png</screenshot>
-			<screenshot>extras/views/Flix Seasons 2.png</screenshot>
-			<screenshot>extras/views/Flix Seasons.png</screenshot>
-			<screenshot>extras/views/Flix.png</screenshot>
-			<screenshot>extras/views/Iconwall.png</screenshot>
-			<screenshot>extras/views/Infowall.png</screenshot>
-			<screenshot>extras/views/Lista.png</screenshot>
-			<screenshot>extras/views/Mayusc.png</screenshot>
-			<screenshot>extras/views/Muro.png</screenshot>
-			<screenshot>extras/views/Poster.png</screenshot>
 		</assets>
 		<summary lang="es_ES">Estuary Palantir, modificacion del skin creado por phil65 y Piers adaptado especialmente para Palantir.</summary>
 		<summary lang="en_GB">Estuary Palantir, modification of the skin created by phil65 and Piers adapted especially for Palantir.</summary>
